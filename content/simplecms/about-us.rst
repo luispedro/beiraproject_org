@@ -2,6 +2,7 @@ title: About Us
 url: about-us
 categories:
 ..
+
 .. image:: /images/rita_luis.jpeg
     :width: 100%
 
