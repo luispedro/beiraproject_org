@@ -1,6 +1,6 @@
 title: We raised over $2200!
 slug: we-raised-over-2200
-timestamp: 2 June 2010
+timestamp: 2 June 2010 09:00
 categories: fundraiser
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---

@@ -1,6 +1,6 @@
 title: Back in Beira
 slug: back-in-beira
-timestamp: 10 July 2010
+timestamp: 10 July 2010 09:00
 categories: esmabama beira
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---

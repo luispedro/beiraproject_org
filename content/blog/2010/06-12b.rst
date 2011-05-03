@@ -1,6 +1,6 @@
 title: Photo II
 slug: photo-ii
-timestamp: 12 June 2010
+timestamp: 12 June 2010 09:00
 categories: kufunana
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---

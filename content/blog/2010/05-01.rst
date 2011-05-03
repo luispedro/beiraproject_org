@@ -1,6 +1,6 @@
 title: Linux vs Windows for Project Maputo
 slug: linux-vs-windows-for-project-maputo
-timestamp: 1 May 2010
+timestamp: 1 May 2010 09:00
 categories: computers linux
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---

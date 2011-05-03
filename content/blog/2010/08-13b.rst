@@ -1,6 +1,6 @@
 title: Back to Pittsburgh
 slug: back-to-pittsburgh
-timestamp: 13 August 2010
+timestamp: 13 August 2010 09:00
 categories: 
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---

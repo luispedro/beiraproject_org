@@ -1,6 +1,6 @@
 title: Stories
 slug: stories
-timestamp: 11 June 2010
+timestamp: 11 June 2010 09:00
 categories: mozambique stories
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---

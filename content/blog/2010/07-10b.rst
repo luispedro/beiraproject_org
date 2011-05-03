@@ -1,9 +1,10 @@
-title: `Kickstarter - Beira Project Meets Kufunana Meets Schniztler <http://kck.st/9Kk23l>`_
+title: Kickstarter - Beira Project Meets Kufunana Meets Schniztler
 slug: kickstarter-beira-project
-timestamp: 10 July 2010
+timestamp: 10 July 2010 09:00
 categories:
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---
 
+`Kickstarter - Beira Project Meets Kufunana Meets Schniztler <http://kck.st/9Kk23l>`_
 Get yourself a *capulana*!
 

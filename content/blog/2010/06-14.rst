@@ -1,6 +1,6 @@
 title: Photo
 slug: photo
-timestamp: 14 June 2010
+timestamp: 14 June 2010 09:00
 categories: kickstarter kufunana capulana
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---

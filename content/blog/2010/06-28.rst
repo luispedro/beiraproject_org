@@ -1,6 +1,6 @@
 title: Theatre Classes in Machanga
 slug: theatre-classes-in-machanga
-timestamp: 28 June 2010
+timestamp: 28 June 2010 09:00
 categories: teaching esmabama theatre
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---

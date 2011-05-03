@@ -62,6 +62,9 @@
     name: Pittsburgh
     slug: pittsburgh
 -
+    name: Photos
+    slug: photos
+-
     name: poverty fact
     slug: poverty-fact
 -

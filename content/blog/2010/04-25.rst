@@ -1,6 +1,6 @@
-title: Encounters (II): Paul van der Boor
+title: Encounters (II) Paul van der Boor
 slug: encounters-ii-paul-van-der-boor
-timestamp: 25 April 2010
+timestamp: 25 April 2010 09:00
 categories: 
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---

@@ -1,6 +1,6 @@
 title: Photo III
 slug: photo-iii
-timestamp: 12 June 2010
+timestamp: 12 June 2010 09:00
 categories: 
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---

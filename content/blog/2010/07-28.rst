@@ -1,6 +1,6 @@
 title: In Mangunde. Back to Internet
 slug: in-mangunge-back-to-internet
-timestamp: 7 July 2010
+timestamp: 7 July 2010 09:00
 categories: kufunana esmabama mangunde
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---

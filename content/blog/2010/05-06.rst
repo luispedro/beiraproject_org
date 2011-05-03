@@ -1,6 +1,6 @@
 title: beiraproject.org is Active
 slug: beiraproject-org-is-active
-timestamp: 6 May 2010
+timestamp: 6 May 2010 09:00
 categories: 
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---

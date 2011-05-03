@@ -1,6 +1,6 @@
-title: 
+title: Interview I
 slug: interview-i
-timestamp: 14 June 2010
+timestamp: 14 June 2010 09:00
 categories: kufunana video interview julio
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---

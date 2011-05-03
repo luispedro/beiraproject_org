@@ -1,6 +1,6 @@
 title: Photo
 slug: photo
-timestamp: 12 June 2010
+timestamp: 12 June 2010 09:00
 categories: beira mozambique esmabama
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---

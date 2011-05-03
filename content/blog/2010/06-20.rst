@@ -1,6 +1,6 @@
 title: Newsletter I
 slug: newsletter-i
-timestamp: 20 June 2010
+timestamp: 20 June 2010 09:00
 categories: newsletter mailinglist esmabama kufunana
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---

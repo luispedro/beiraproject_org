@@ -1,6 +1,6 @@
-title: Save the date: May 29. 6pm
+title: Save the date May 29. 6pm
 slug: save-the-date-may-29-6pm
-timestamp: 10 May 2010
+timestamp: 10 May 2010 09:00
 categories: fundraiser
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---

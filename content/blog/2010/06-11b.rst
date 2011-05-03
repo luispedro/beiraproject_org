@@ -1,6 +1,6 @@
 title: Computer for Kufunana
 slug: computer-for-kufunana
-timestamp: 11 June 2010
+timestamp: 11 June 2010 09:00
 categories: computer kufunana ubuntu linux
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---

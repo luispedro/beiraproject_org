@@ -1,6 +1,6 @@
 title: Prizes for Fundraiser
 slug: prizes-for-fundraiser
-timestamp: 28 May 2010
+timestamp: 28 May 2010 09:00
 categories: fundraiser prizes
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---

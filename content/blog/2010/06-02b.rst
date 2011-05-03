@@ -1,6 +1,6 @@
 title: Photo
 slug: photo
-timestamp: 2 June 2010
+timestamp: 2 June 2010 09:00
 categories:
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---

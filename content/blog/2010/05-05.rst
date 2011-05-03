@@ -1,6 +1,6 @@
 title: Project Maputo Became Beira Project
 slug: project-maputo-became-beira-project
-timestamp: 5 May 2010
+timestamp: 5 May 2010 09:00
 categories: 
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---

@@ -1,6 +1,6 @@
 title: Menu for tonight
 slug: menu-for-tonight
-timestamp: 29 May 2010
+timestamp: 29 May 2010 09:00
 categories: fundraiser food pittsburgh
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---

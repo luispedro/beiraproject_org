@@ -1,7 +1,7 @@
 title: A Rede
 slug: a-rede
 timestamp: 12 Aug 2010 12:23
-categories: kufunana theatre the_network mozambique
+categories: kufunana theatre the-network mozambique
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---
 

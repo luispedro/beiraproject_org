@@ -1,6 +1,6 @@
 title: Project Maputo
 slug: project-maputo
-timestamp: 3 Apr 2010
+timestamp: 3 Apr 2010 09:00
 categories: notes
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---

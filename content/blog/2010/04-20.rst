@@ -1,6 +1,6 @@
-title: Encounters (I): Maria da Conceição
+title: Encounters (I) Maria da Conceição
 slug: encounters-i-maria-da-conceicao
-timestamp: 20 April 2010
+timestamp: 20 April 2010 09:00
 categories: dhakaproject
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---

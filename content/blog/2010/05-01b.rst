@@ -1,6 +1,6 @@
-title: Encounters (III): Vasco Calais Pedro
+title: Encounters (III) Vasco Calais Pedro
 slug: encounters-iii-vasco-calais-pedro
-timestamp: 1 May 2010
+timestamp: 1 May 2010 09:00
 categories: 
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---

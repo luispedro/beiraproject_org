@@ -1,6 +1,6 @@
 title: Reading up on what to take/expect
 slug: reading-up-on-what-to-take-expect
-timestamp: 21 May 2010
+timestamp: 21 May 2010 09:00
 categories: 
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---

@@ -1,6 +1,6 @@
-title: One of our partners: EsMaBaMa
+title: One of our partners EsMaBaMa
 slug: one-of-our-partners-esmabama
-timestamp: 27 May 2010
+timestamp: 27 May 2010 09:00
 categories: 
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---

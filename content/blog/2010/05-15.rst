@@ -1,7 +1,7 @@
 
 title: About Beira Project
 slug: about-beira-project
-timestamp: 15 May 2010
+timestamp: 15 May 2010 09:00
 categories: beiraproject
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---

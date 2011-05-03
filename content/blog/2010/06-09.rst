@@ -1,6 +1,6 @@
 title: Tiny Poverty Facts
 slug: tiny-poverty-facts
-timestamp: 9 June 2010
+timestamp: 9 June 2010 09:00
 categories: mozambique poverty-fact
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---
