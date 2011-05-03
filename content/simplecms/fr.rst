@@ -43,7 +43,7 @@ Signup will just help us plan better.
 Partners
 ~~~~~~~~
 
-.. image:: /images/bueda.png
+.. image:: /media/files/images/bueda.png
 
 `Bueda <http://www.bueda.com>`__
 

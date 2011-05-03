@@ -3,7 +3,7 @@ url: about-us
 categories:
 ..
 
-.. image:: /images/rita_luis.jpeg
+.. image:: /media/files/images/rita_luis.jpeg
     :width: 100%
 
 Luis and Rita (pictured above) are two graduate students from Pittsburgh
