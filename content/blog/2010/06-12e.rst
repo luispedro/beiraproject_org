@@ -1,0 +1,19 @@
+title: Photo
+slug: photo
+timestamp: 12 June 2010
+categories: kufunana
+author: Luis Pedro Coelho <luis@beiraproject.org>
+---
+
+.. image:: /media/files/images/blog/2010/julio.jpeg
+    :width: 100%
+
+
+This is Julio from `Kufunana <http://www.kufunana.org>`_. We have a really
+interesting video interview with him that we will post once we have translated
+it (it’s in Portuguese).
+
+He talks about Kufunana, theatre of the opressed, HIV/AIDS in Mozambique, the
+impact of superstitions, and other things.
+
+

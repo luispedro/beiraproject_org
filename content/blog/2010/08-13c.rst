@@ -1,0 +1,32 @@
+title 
+slug: photos-iv
+timestamp: 13 August 2010
+categories: kufunana photos
+author: Luis Pedro Coelho <luis@beiraproject.org>
+---
+
+.. raw:: html
+
+    <div id="gallery">
+        <img src="/media/files/images/blog/2010/policeman_prostitute.jpeg" alt="Policeman and the prostitute" title="Policeman and the Prostitute" />
+        <img src="/media/files/images/blog/2010/truckdriver.jpeg" alt="The truckdriver" title="The truckdriver" />
+        <img src="/media/files/images/blog/2010/teacher.jpeg" alt="The teacher" title="The teacher" />
+    </div>
+    <script>
+    $('#gallery').galleria({
+            width: 500,
+            height: 500
+    });
+    </script>
+
+
+Photos from the show **A Rede** (The Network), which we performed with
+`Kufunana <http://www.kufunana.org>`_.
+
+The policeman and the prostitute (both protected).
+
+The handsome truckdriver.
+
+The teacher (teachers in Mozambique wear a white robe as uniform).
+
+

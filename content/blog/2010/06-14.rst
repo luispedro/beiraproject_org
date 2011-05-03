@@ -1,0 +1,15 @@
+title: Photo
+slug: photo
+timestamp: 14 June 2010
+categories: kickstarter kufunana capulana
+author: Luis Pedro Coelho <luis@beiraproject.org>
+---
+
+.. image:: /media/files/images/blog/2010/capulanas.jpeg
+    :width: 100%
+
+Capulanas at the store. Get `yours now <http://kck.st/9Kk23l>`__ and help
+`Kufunana <http://www.kufunana.org>`__ put on a show.
+
+
+

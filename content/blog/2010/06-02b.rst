@@ -1,0 +1,14 @@
+title: Photo
+slug: photo
+timestamp: 2 June 2010
+categories:
+author: Luis Pedro Coelho <luis@beiraproject.org>
+---
+
+.. image:: /media/files/images/blog/2010/t-shirt.jpeg
+    :width: 100%
+
+
+Handing out prizes. More in my `flickr stream
+<http://www.flickr.com/photos/luispedrocoelho/sets/72157624184958078/>`__
+

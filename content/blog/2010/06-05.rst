@@ -1,0 +1,10 @@
+title: We're on Our Way 
+slug: we-re-on-our-way
+timestamp: 5 June 2010
+categories: 
+author: Luis Pedro Coelho <luis@beiraproject.org>
+---
+
+We’re on our way!
+
+We’re at JFK and waiting to check in for our flight to Johanesburg.

@@ -1,0 +1,21 @@
+title: 
+slug: interview-i
+timestamp: 14 June 2010
+categories: kufunana video interview julio
+author: Luis Pedro Coelho <luis@beiraproject.org>
+---
+
+.. raw:: html
+
+    <iframe
+    src="http://player.vimeo.com/video/12536067?title=0&amp;byline=0&amp;portrait=0"
+    width="400" height="300" frameborder="0"></iframe><p><a
+    href="http://vimeo.com/12536067">Interview with Júlio João: Theatre of the
+    Opressed</a> from <a href="http://vimeo.com/luispedro">Luis Pedro
+    Coelho</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+First excerpt of interview with Júlio João. We have more video that we will be
+uploading as we edit (and translate it) and as bandwidth permits.
+
+This was also posted at `kufunana.org <http://kufunana.org>`_.
+

@@ -1,0 +1,13 @@
+title: Photo
+slug: photo
+timestamp: 12 June 2010
+categories: beira mozambique esmabama
+author: Luis Pedro Coelho <luis@beiraproject.org>
+---
+
+.. image:: /media/files/images/blog/2010/beira.jpeg
+    :width: 100%
+
+This was taken in Beira, Mozambique; near the house where `EsMaBaMa
+<http://www.esmabama.org>`__ is hosting us.
+

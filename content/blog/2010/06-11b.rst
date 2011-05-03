@@ -1,0 +1,31 @@
+title: Computer for Kufunana
+slug: computer-for-kufunana
+timestamp: 11 June 2010
+categories: computer kufunana ubuntu linux
+author: Luis Pedro Coelho <luis@beiraproject.org>
+---
+
+Our friend Lidio had donated a working laptop. Unfortunately, because Lidio had
+spent some time in Japan, upon boot it looked like this:
+
+.. image:: /media/files/images/blog/2010/computer_before.png
+    :width: 100%
+
+After installing Ubuntu, it looks much more intelligible (if you understand
+Portuguese):
+
+
+
+.. image:: /media/files/images/blog/2010/computer_after.png
+    :width: 100%
+
+Even fee, the cat, can use it now, to read our blog:
+
+.. image:: /media/files/images/blog/2010/computer_fee.jpeg
+    :width: 100%
+
+We already gave the laptop to Julio, from `Kufunana
+<http://www.kufunana.org>`__ (we are still working on that website too, so it
+will grow over the next couple of weeks).
+
+

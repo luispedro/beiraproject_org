@@ -1,0 +1,37 @@
+title: Linux vs Windows for Project Maputo
+slug: linux-vs-windows-for-project-maputo
+timestamp: 1 May 2010
+categories: computers linux
+author: Luis Pedro Coelho <luis@beiraproject.org>
+---
+
+One of our projects in Mozambique will be to set up computer labs for several
+of the groups there. One of the questions is what operating system to use.
+
+I haven’t personally run Windows since Windows 98 was their newest operating
+system (I did have an dual-booting Linux/XP laptop before you could buy linux
+laptops, but I rarely used it, this was 6 years ago). I had an Apple laptop for
+a while, but now all my computers are Linux. Still, I am trying to keep an open
+mind.
+
+I do know that in these environments it’s not sufficient to just leave them a
+bunch of computers as they will quickly become unusable with viruses and
+spamware as kids install all sorts of things to get games to work (or to see
+pictures of unclad women). I know this from seeing it in other countries and
+from talking to our partners in Mozambique. Some `intellectual tabloids
+<http://www.foreignpolicy.com/articles/2010/03/24/africas_cyber_wmd>`__ (a term
+I just coined) have even pointed out how this is a problem for the wider
+internet.
+
+The argument is thus for a Linux based solution where the typical user is
+allowed to run firefox (and only firefox) and more advanced users can run
+openoffice. By logging in remotely, a more advanced expert can do maintenance
+up to the point where the machines stop connecting to the internet.
+
+I can’t probably give you an answer now as to what we will use, but if I found
+a good Linux distribution for this environment, it would make things much
+easier.
+
+(And, no, Apple is not under consideration; the machines are too expensive).
+
+

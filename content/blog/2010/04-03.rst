@@ -1,0 +1,10 @@
+title: Project Maputo
+slug: project-maputo
+timestamp: 3 Apr 2010
+categories: notes
+author: Luis Pedro Coelho <luis@beiraproject.org>
+---
+
+Project Maputo is the idea that two people (Rita & Luis) will spend two months
+in Mozambique (maybe Maputo, maybe not) and try to do something interesting.
+

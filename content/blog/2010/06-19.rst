@@ -1,0 +1,20 @@
+title: 
+slug: interview-ii
+timestamp: 19 June 2010
+categories: kufunana video interview julio
+author: Luis Pedro Coelho <luis@beiraproject.org>
+---
+
+.. raw:: html
+
+   <iframe
+   src="http://player.vimeo.com/video/12696375?title=0&amp;byline=0&amp;portrait=0"
+   width="400" height="300" frameborder="0"></iframe><p><a
+   href="http://vimeo.com/12696375">Interview with Júlio João:
+   Superstitions</a> from <a href="http://vimeo.com/luispedro">Luis Pedro
+   Coelho</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+Second bit of our interview with Júlio João, of Kufunana, where he talks about
+superstitions around HIV/AIDS.
+
+

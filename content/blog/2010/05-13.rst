@@ -1,0 +1,11 @@
+title: Fundraiser Signup!
+slug: fundraiser-signup
+timestamp: 13 May 2010
+categories: fundraiser pittsburgh
+author: Luis Pedro Coelho <luis@beiraproject.org>
+---
+You can finally `sign up for our fundraiser
+<https://beiraproject.wufoo.com/forms/fundraiser-signup/>`__.
+
+Sign up is not mandatory, but it helps us know how many to expect.
+

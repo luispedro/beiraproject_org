@@ -1,0 +1,13 @@
+title: Photo II
+slug: photo-ii
+timestamp: 12 June 2010
+categories: kufunana
+author: Luis Pedro Coelho <luis@beiraproject.org>
+---
+
+.. image:: /media/files/images/blog/2010/kufunana-rehearsal.jpeg
+    :width: 100%
+
+Rehearsing with Kufununana. Help us and get a Beira Project souvenir at
+`Kickstarter <http://kck.st/9Kk23l>`__
+

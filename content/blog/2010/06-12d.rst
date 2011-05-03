@@ -1,0 +1,11 @@
+title: Photo
+slug: photo
+timestamp: 12 June 2010
+categories:
+author: Luis Pedro Coelho <luis@beiraproject.org>
+---
+
+.. image:: /media/files/images/blog/2010/beach.jpeg
+    :width: 100%
+
+Walking to the boat to bring us back to Beira.

@@ -1,0 +1,13 @@
+title: Barada
+slug: barada
+timestamp: 13 June 2010
+categories: beira mozambique esmabama
+author: Luis Pedro Coelho <luis@beiraproject.org>
+---
+
+.. image:: /media/files/images/blog/2010/theatre_barada.jpeg
+    :width: 100%
+
+Theatre Class in Barada.
+
+

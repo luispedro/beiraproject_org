@@ -1,0 +1,15 @@
+title: beiraproject.org is Active
+slug: beiraproject-org-is-active
+timestamp: 6 May 2010
+categories: 
+author: Luis Pedro Coelho <luis@beiraproject.org>
+---
+Changed the domain name.
+
+Unfortunately, tumblr doesn’t let me use more than one domain name, so I am
+going to have to redirect projectmaputo.org by myself.
+
+Also, it seems tumblr doesn’t allow multiple authors on your default blog.
+That’s a bit annoying. It also doesn’t let change what your default blog is.
+That’s more annoying.
+

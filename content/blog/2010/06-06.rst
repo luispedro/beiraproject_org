@@ -1,0 +1,12 @@
+title: 
+slug: photo
+timestamp: 6 June 2010
+categories: 
+author: Luis Pedro Coelho <luis@beiraproject.org>
+---
+
+.. image:: /media/files/images/blog/2010/fiel.jpeg
+    :width: 100%
+
+Bench says: Be faithful to your partner
+

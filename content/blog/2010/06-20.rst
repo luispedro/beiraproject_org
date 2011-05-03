@@ -1,0 +1,67 @@
+title: Newsletter I
+slug: newsletter-i
+timestamp: 20 June 2010
+categories: newsletter mailinglist esmabama kufunana
+author: Luis Pedro Coelho <luis@beiraproject.org>
+---
+
+This was also sent out by email to our `newsletter
+<http://groups.google.com/group/beiraproject>`__ subscribers.
+
+KUFUNANA
+~~~~~~~~
+
+During our first week, we stayed in Beira and became familiar with the
+activities of Kufunana. We started developing `their website
+<http://www.kufunana.org/>`__ and interviewed Júlio João the head of the
+organization (see clips on website, with English subtitles). We are still
+translating and putting subtitles on the rest of the video so we can post the
+whole of this fascinating interview.
+
+We are also developing with Kufunana a two week theatre workshop that we hope
+will culminate with a performance and a debate.
+
+ESMABAMA
+~~~~~~~~
+
+During the second week of our stay, we went to the schools and hospitals that
+EsMaBaMa has in the province of Sofala and discussed ways we could help.
+
+Starting tomorrow we are going to spend a week per school (a total of four)
+teaching theatre and computer skills (some basic introduction and some
+programming) and observing the medical facilities so we can see how their
+computational tools can be improved. All the schools have theatre groups that
+work on HIV related issues. We are going to work with the teachers and students
+to teach theatre games that try to raise social issues that are pertinent
+locally (such as: child birth in the hospital, gender issues, HIV, education
+for girls, superstitions, reproductive health). But we are also going to work
+on bringing to the stage African poetry and use the theatre class as a fun
+Portuguese language class.
+
+There are only three hours of electricity in the three first schools we are
+going to visit (and often no running water, of course no garbage collection).
+Due to the reduced number of hours we have energy and the reduced number of
+computers per school (generally four working devices) Luis is going to teach
+mainly to teachers, and as we have seen the need is essentially for computer
+introduction classes. In the last school there is electricity twenty four hours
+a day, some students have computer classes, and there are ten computers. Luis
+will then be able to teach intro to programming.
+
+COMPUTER+INTERNET FOR KUFUNANA
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+We have given Kufunana a computer (gift from Lidio Meireles) and have paid for
+them to get internet (now, we just need to wait for the Mozambican Telecoms to
+connect them—which shouldn’t take more than a week).
+
+COMPUTERS FOR ESMABAMA
+~~~~~~~~~~~~~~~~~~~~~~
+Another one of our goals is to use part of the money we raised to buy and
+install more computers in one of EsMaBaMa’s schools. Probably this will be a
+multi-head installation (i.e., several monitor+keyboard+mouse terminals linked
+to a single computer, but working as if they were separate computers), but we
+are still studying this. We were surprised to realize that electronics are very
+expensive here (often double the US price). Other things can be really cheap.
+Today we bought wrist-watch for one dollar (one of those retro digital ones
+that sell for forty bucks at Urban Outfitters). Again it’s hard to believe but
+the GDP per capita is $464 per year.
+

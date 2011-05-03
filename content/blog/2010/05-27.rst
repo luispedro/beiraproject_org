@@ -1,0 +1,14 @@
+title: 
+slug: 
+timestamp: 
+categories: 
+author: Luis Pedro Coelho <luis@beiraproject.org>
+---
+
+.. image:: /media/files/images/blog/2010/kufunana-hiv-positivo.jpeg
+    :width: 100%
+
+Second of our partners: Kufunana. The photo shows Kufunana performing theatre
+of the oppressed on the street to raise awareness on HIV testing (photo credit:
+Kufunana)
+

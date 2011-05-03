@@ -1,0 +1,15 @@
+title: Photo III
+slug: photo-iii
+timestamp: 12 June 2010
+categories: 
+author: Luis Pedro Coelho <luis@beiraproject.org>
+---
+
+.. image:: /media/files/images/blog/2010/tripod.jpeg
+    :width: 100%
+
+It was impossible to find a tripod in Beira (we tried about fifteen different
+shops who sold all sorts of electronic brick-a-brack). This was a home-made
+attempt (ultimately unsuccessful as it was too flimsy).
+
+
