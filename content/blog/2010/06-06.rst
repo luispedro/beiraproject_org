@@ -1,5 +1,5 @@
 title: Photo
-slug: photo
+slug: photo-ii
 timestamp: 6 June 2010 09:00
 categories: photos
 author: Luis Pedro Coelho <luis@beiraproject.org>
