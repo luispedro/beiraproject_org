@@ -3,6 +3,9 @@ url: about-us
 categories:
 ..
 
+About Us
+--------
+
 .. image:: /media/files/images/rita_luis.jpeg
     :width: 100%
 

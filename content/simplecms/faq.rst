@@ -3,6 +3,9 @@ url: faq
 categories:
 ..
 
+Frequently Asked Questions
+--------------------------
+
 Why Mozambique? Why Beira?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 

@@ -3,6 +3,9 @@ url: about
 categories:
 ..
 
+About
+-----
+
 The Beira Project will provide HIV-related non-profits in Mozambique with
 tools, physical and technical, to do their job better, to reach more people
 better.

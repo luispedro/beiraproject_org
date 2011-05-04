@@ -3,6 +3,9 @@ url: fr
 categories:
 ..
 
+Fundraiser
+----------
+
 Fundraiser **May 29 6-9pm**. `Sign up
 <https://beiraproject.wufoo.com/forms/fundraiser-signup/>`_.
 
