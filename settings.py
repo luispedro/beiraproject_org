@@ -89,6 +89,8 @@ INSTALLED_APPS = (
     'gitcms.blog',
     'gitcms.files',
     'gitcms.redirect',
+
+    'signup',
 )
 
 
