@@ -14,6 +14,7 @@ class Signup(models.Model):
     date = models.DateTimeField(default=datetime.now)
     nr_guests = models.PositiveIntegerField(default=1, verbose_name='Including myself, my party will have these many people')
     attribution = models.CharField(max_length=2, choices=_Attribution_Choices, default='ME')
+    attribute_to = models.CharField(max_length=255)
     donation = models.IntegerField(default=35, help_text="Recommended: $35 per person")
     join_ml = models.BooleanField(verbose_name='Join Our Mailing List')
     attend = models.BooleanField(verbose_name='I am attending on the 28th', default=True)
