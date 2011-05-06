@@ -6,12 +6,18 @@ categories:
 Fundraiser
 ----------
 
-Fundraiser **May 28 6pm-midning**. `Sign up </fr/signup/>`_.
+**May 28 6pm-midnight**
+
+Where? 6823 Thomas Blvd, Apartment 1 (`google maps link
+<http://maps.google.com/maps?client=ubuntu&channel=ks&q=6823+Thomas+Blvd+Pittsburgh+PA&um=1&ie=UTF-8&hq=&hnear=6823+Thomas+Blvd,+Pittsburgh,+PA+15208&gl=us&ei=gIrDTbKvD6GX0QH7qY2tCA&sa=X&oi=geocode_result&ct=title&resnum=1&ved=0CBYQ8gEwAA>`__).
+
+`Sign up now </fr/signup/>`_.
 
 This will be a fundraising cocktail party held at our house, with *wine*, *summer
-cocktails*, and *gourmet appetizers* (with a Mozambican flavour).
+cocktails*, and *gourmet appetizers* (with a Mozambican flavour). It's one
+great party.
 
-Sign up is not mandatory, but it helps us know how many to expect and you can
+Sign up is not required, but it helps us know how many to expect and you can
 immediately donate online to simplify things. You can also donate at the party.
 
 What will the money be for?
