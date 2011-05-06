@@ -7,6 +7,12 @@
     {{ error }}
     </p>
 {% endif %}
+<style>
+form p {
+    padding-top: 1em;
+    margin-top: 1em;
+}
+</style>
 <form action="/fr/signup" method="post">
     {{ form.as_p }}
     <input type="submit" value="Sign Up!" />
