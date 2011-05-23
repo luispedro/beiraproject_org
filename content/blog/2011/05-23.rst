@@ -1,0 +1,11 @@
+title: Fundraiser Postponed
+slug: fundraiser-postponed
+timestamp: 23 May 2011 18:36
+categories: fundraiser
+author: Luis Pedro Coelho <luis@beiraproject.org>
+---
+
+Because we just had a baby (who arrived earlier than expected), we are
+**postponing the fundraiser we had planned**.
+
+The tentative new date is September 3rd.

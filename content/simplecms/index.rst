@@ -6,11 +6,13 @@ categories:
 Beira Project
 -------------
 
-Fundraiser! May 28 2011
-~~~~~~~~~~~~~~~~~~~~~~~
+Fundraiser Posponed!!!
+~~~~~~~~~~~~~~~~~~~~~~
 
-We are having a **second annual fundraiser**. `Come help </fr>`_. We promise to
-throw a great party: good food, great cocktails, prizes, drinks, great people.
+We are still holding a **second annual fundraiser**, but it will be later.
+Tentative date is September 3.
+
+Check back.
 
 .. image:: /media/files/images/rehearsal.jpeg
    :width: 100%

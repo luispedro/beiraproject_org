@@ -6,7 +6,15 @@ categories:
 Fundraiser
 ----------
 
-**May 28 6pm-midnight**
+
+**POSTPONED!!**
+
+*The fundraiser has been postponed!*
+
+Why? Because we just had a baby, who makes us very happy, but arrived a few
+weeks early (we had scheduled the event for two weeks before the due date
+thinking it would give us enough margin, but it turns out the baby had other
+ideas).
 
 Where? 6823 Thomas Blvd, Apartment 1 (`google maps link
 <http://maps.google.com/maps?client=ubuntu&channel=ks&q=6823+Thomas+Blvd+Pittsburgh+PA&um=1&ie=UTF-8&hq=&hnear=6823+Thomas+Blvd,+Pittsburgh,+PA+15208&gl=us&ei=gIrDTbKvD6GX0QH7qY2tCA&sa=X&oi=geocode_result&ct=title&resnum=1&ved=0CBYQ8gEwAA>`__).
