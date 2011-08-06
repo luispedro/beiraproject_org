@@ -6,11 +6,13 @@ categories:
 Beira Project
 -------------
 
-Fundraiser Posponed!!!
-~~~~~~~~~~~~~~~~~~~~~~
+Fundraiser: September 3
+~~~~~~~~~~~~~~~~~~~~~~~
 
-We are still holding a **second annual fundraiser**, but it will be later.
-Tentative date is September 3.
+Second annual fundraiser: `September 3 </fr>`__.
+
+Please join us for a great party to raise money for Mozambican organisations.
+
 
 Check back.
 
