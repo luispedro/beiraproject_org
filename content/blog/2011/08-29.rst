@@ -1,4 +1,4 @@
-title: Fundraiser: September 3
+title: "Fundraiser: September 3"
 slug: fundraiser-september-3
 timestamp: 29 Aug 2011 8:37
 categories: fundraiser
