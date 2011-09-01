@@ -5,7 +5,7 @@ categories: fundraiser
 author: Luis Pedro Coelho <luis@beiraproject.org>
 ---
 
-This is the main for the `fundraiser </fr>`__ on Saturday. It will not be a
+This is the menu for the `fundraiser </fr>`__ on Saturday. It will not be a
 sit-down dinner, but we organised into courses:
 
 (Some of the recipes may change while we shop, depending on availability of
