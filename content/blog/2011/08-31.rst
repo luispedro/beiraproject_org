@@ -1,0 +1,47 @@
+title: Fundraiser Menu
+slug: fundraiser-menu
+timestamp: 31 Aug 2011 23:02
+categories: fundraiser
+author: Luis Pedro Coelho <luis@beiraproject.org>
+---
+
+This is the main for the `fundraiser </fr>`__ on Saturday. It will not be a
+sit-down dinner, but we organised into courses:
+
+(Some of the recipes may change while we shop, depending on availability of
+produce.)
+
+Starters
+--------
+
+**Paulista Shrimp.** pan-fried shrimp. garlic. jalapeños. (paulista is someone
+from São Paulo, in Brazil).
+
+**Pineapple.** bacon powder. basil leaf.
+
+**Spinach.** prunes. shitake. coconut milk.
+
+**Cheese.** crakers
+
+**Assorted finger foods.** we haven't fully decided.
+
+Main Courses
+------------
+
+**Fish Curry.** coconut. peanuts. couve. xima (Mozambican-style polenta).
+basmati rice.
+
+**Fruit Curry.** fruits. yams. (vegetarian)
+
+Afters
+------
+
+**Chocolate mousse.** wasabi. cayenne. flambéed raspberries. whipped cream. kiwi
+foam. pecans.
+
+**Orange cake.**
+
+**Pineapple.** ginger. orange.
+
+**Pastries.** depending on baker availability.
+
