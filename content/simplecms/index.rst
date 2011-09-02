@@ -11,10 +11,12 @@ Fundraiser: September 3
 
 Second annual fundraiser: `September 3 </fr>`__.
 
+Check out the `menu
+<http://beiraproject.org/blog/2011/August/fundraiser-menu>`__ and the `prizes
+</blog/2011/September/fundraiser-prizes-2011>`__.
+
 Please join us for a great party to raise money for Mozambican organisations.
 
-
-Check back.
 
 .. image:: /media/files/images/rehearsal.jpeg
    :width: 100%
