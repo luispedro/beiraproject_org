@@ -1,0 +1,12 @@
+title: World AIDS Day
+slug: world-aids-day
+timestamp: 1 Dec 2011 1:52
+categories:
+author: Luis Pedro Coelho <luis@beiraproject.org>
+---
+
+Today is World AIDS Day.
+
+Thank you again to all of the donours who helped our partners make a small dent
+in the epidemic.
+
